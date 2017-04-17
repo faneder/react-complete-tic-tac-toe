@@ -1,0 +1,12 @@
+.DS_STORE
+*.log
+
+secret.json
+
+node_modules
+
+dist
+coverage
+
+*.swp
+
